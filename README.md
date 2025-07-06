@@ -1,7 +1,7 @@
 # AI-ML-DL-Tasks
 A dedicated repo for uploading all the assigned tasks during training
 
-Project Assignment 
+/Task1: Project Assignment on 05/07/2025
 
 Project Title: Predicting Student Exam Results 
 
