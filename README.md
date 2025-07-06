@@ -1,9 +1,9 @@
-# AI-ML-DL-Tasks
-A dedicated repo for uploading all the assigned tasks during training
+# ANJAN CHOWDHURY (PYTHON+AI)
+A dedicated repo for my assigned tasks during training
 
 ## Task1: Project Assignment on 05/07/2025
 
-Project Title: Predicting Student Exam Results 
+### Project Title: Predicting Student Exam Results 
 
 Project Description: 
 
